@@ -22,5 +22,5 @@ Contents
    :caption: Quickstarts
 
    quickstarts/overview
-   usage
-   api
+   quickstarts/usage
+
