@@ -20,5 +20,6 @@ Contents
 
    :caption: QUICKSTARTS
 
+   overview
    usage
    api
