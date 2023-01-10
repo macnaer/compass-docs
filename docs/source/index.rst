@@ -17,7 +17,10 @@ Contents
 --------
 
 .. toctree::
-
+   :maxdepth: 3
+   :hidden:
+   :caption: Quickstarts
+   
    overview
    usage
    api
