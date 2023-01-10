@@ -18,9 +18,7 @@ Contents
 
 .. toctree::
 
-   :caption: Introduction
+   :caption: QUICKSTARTS
 
-   intro/about_library
-   
    usage
    api
