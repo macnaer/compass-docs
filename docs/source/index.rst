@@ -17,7 +17,6 @@ Contents
 --------
 
 .. toctree::
-   :hidden:
    :caption: Quickstarts
 
    quickstarts/overview
