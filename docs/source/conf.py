@@ -27,6 +27,10 @@ intersphinx_disabled_domains = ['std']
 
 templates_path = ['_templates']
 
+# The name of the Pygments (syntax highlighting) style to use.
+pygments_style = 'default'
+highlight_language = 'csharp'
+
 # -- Options for HTML output
 
 html_theme = 'sphinx_rtd_theme'

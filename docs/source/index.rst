@@ -15,14 +15,12 @@ how to :ref:`installation` the project.
 
 Contents
 --------
+
 .. toctree::
-   :maxdepth: 3
-   :hidden:
+
    :caption: Introduction
 
    intro/about_library
    
-.. toctree::
-
    usage
    api
