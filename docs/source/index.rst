@@ -20,7 +20,7 @@ Contents
    :maxdepth: 3
    :hidden:
    :caption: Quickstarts
-   
-   overview
+
+   quickstarts/overview
    usage
    api

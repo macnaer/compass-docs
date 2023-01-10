@@ -4,9 +4,6 @@ Overview
 
 .. _installation:
 
-Welcome to IdentityServer4 (latest)
-========================================
-
 To use Lumache, first install it using pip:
 
 .. code-block:: console
