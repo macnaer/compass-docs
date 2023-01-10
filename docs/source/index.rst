@@ -18,8 +18,6 @@ Contents
 
 .. toctree::
 
-   :caption: QUICKSTARTS
-
    overview
    usage
    api
