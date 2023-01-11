@@ -1,7 +1,7 @@
 Welcome to Compass documentation!
 ===================================
 
-.. image:: images/logo.png
+.. image:: ../images/logo.png
    :align: center
 
 **Compass** (/lu'make/) is a Python library for cooks and food lovers
