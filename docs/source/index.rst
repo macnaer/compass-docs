@@ -4,7 +4,7 @@ Welcome to Compass documentation!
 .. image:: ../images/logo.png
    :align: center
 
-**Compass**  is a library for communicate with `RouterOS 7 <https://mikrotik.com/software/>`.
+**Compass**  is a library for communicate with `RouterOS 7 <https://mikrotik.com/software/>`_
 
 Check out the :doc:`usage` section for further information, including
 how to :ref:`installation` the library.
